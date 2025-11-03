@@ -1,4 +1,4 @@
-onode {
+node {
     def app
     stage('Clone repository') {
         git 'https://github.com/jwpark-sungshin/fork_vs_vfork.git'
